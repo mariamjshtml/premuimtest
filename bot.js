@@ -1233,7 +1233,6 @@ client.on('message',async message => {
 });
 
 //anitcmd//
-const prefix = "+";
 
 const bannedwords = [
   "#credit",
