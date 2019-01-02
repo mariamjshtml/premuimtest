@@ -1251,7 +1251,6 @@ const bannedwords = [
   "G.stop",
   "G.skip",
   "-skip"
-  "+credit",
   "+bot",
   "+autorole",
   "+bc",
